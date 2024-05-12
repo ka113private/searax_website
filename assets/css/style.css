@@ -151,6 +151,17 @@ section {
     line-height: 2em;
 }
 
+/*
+service-section
+*/
+.service{
+    margin-bottom: 100px;
+}
+
+.service-image{
+    width: 100% ;
+}
+
 /* product section */
 .products {
     background-color: var(--white-gray);
